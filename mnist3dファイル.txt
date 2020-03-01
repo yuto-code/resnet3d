@@ -1,0 +1,3 @@
+以下のURLから3D MNISTをダウンロードする
+　　　　　　　　　↓
+https://www.kaggle.com/daavoo/3d-mnist
